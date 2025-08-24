@@ -1,0 +1,6 @@
+
+ibm-watson
+# Career Counseling Companion - Dependencies
+streamlit==1.32.0      # Web framework
+requests==2.31.0       # HTTP requests for IBM Watson API
+python-dotenv==1.0.0   # Environment variables (optional)
